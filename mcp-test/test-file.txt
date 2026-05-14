@@ -1,1 +1,1 @@
-Test content for MCP testing
+MC@ test file content
