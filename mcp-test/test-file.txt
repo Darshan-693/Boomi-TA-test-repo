@@ -1,1 +1,1 @@
-MC@ test file content
+MCDA test file content
